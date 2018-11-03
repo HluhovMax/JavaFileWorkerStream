@@ -1,8 +1,5 @@
-.idea/*
+C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\.idea
 
-*.class
+C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\target
 
-long end = System.currentTimeMillis();
-        System.out.println("time = " + (end - start) + " ms");
-        long end = System.currentTimeMillis();
-                System.out.println("time = " + (end - start) + " ms");
+C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\pom.xml
