@@ -1,5 +1,5 @@
-C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\.idea/*
+.idea/*
 
-C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\target/*
+*.class
 
-C:\Users\Max Hluhov\IdeaProjects\JavaFileWorker\pom.xml
+pom.xml
