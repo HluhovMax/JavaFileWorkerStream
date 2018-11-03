@@ -1,3 +1,8 @@
 .idea/*
 
 *.class
+
+long end = System.currentTimeMillis();
+        System.out.println("time = " + (end - start) + " ms");
+        long end = System.currentTimeMillis();
+                System.out.println("time = " + (end - start) + " ms");
